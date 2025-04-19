@@ -1,0 +1,18 @@
+{
+  "name": "is-samk",
+  "version": "1.0.0",
+  "description": "Is the string samk?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaiAungMinKhant/is-samk.git"
+  },
+  "keywords": [
+    "SAMK"
+  ],
+  "author": "Sai Aung Min Khant",
+  "license": "ISC"
+}
